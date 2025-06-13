@@ -1,0 +1,5 @@
+name: PhantomToggle
+version: '1.0'
+main: dev.dynant.phantomToggle.PhantomToggle
+api-version: '1.21'
+author: Dynant
